@@ -1,0 +1,8 @@
+{
+    "consumer_key": "FILL IT IN!",
+    "consumer_secret": "FILL IT IN!",
+    "access_token": "FILL IT IN!",
+    "access_token_secret": "FILL IT IN!",
+    "timeout_ms": 30000,
+    "strictSSL": true
+}
